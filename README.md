@@ -1,8 +1,5 @@
 # 🚀 Safe PC Optimizer & Maintenance Script (Windows 10/11)
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Roo0722/PC-Optimizer-Batch-Script?style=social)](https://github.com/Roo0722/PC-Optimizer-Batch-Script/stargazers)
-
 ## 💡 Overview
 
 This is a **safe, conservative, and comprehensive batch file utility** designed to automate routine PC maintenance for Windows 10 and 11. Developed by an experienced system administrator, this script prioritizes **data integrity and system stability** over aggressive performance gains.
@@ -70,4 +67,5 @@ The core of the script implements robust control flow using standard Windows Bat
 ## ⚖️ License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
