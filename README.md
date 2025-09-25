@@ -62,10 +62,7 @@ The core of the script implements robust control flow using standard Windows Bat
 * **Error Reporting:** Uses the custom `:LogAction` subroutine with `if %errorlevel% neq 0` checks after critical commands to record specific failure codes.
 * **Cleanup:** Uses `rd /s /q` (Recursive Delete, Quiet) for temp folders and `del /f /s /q` for specific cache files.
 
----
 
-## ⚖️ License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
