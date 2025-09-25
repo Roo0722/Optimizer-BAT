@@ -1,7 +1,7 @@
 # 🚀 Safe PC Optimizer & Maintenance Script (Windows 10/11)
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/PC-Optimizer-Batch-Script?style=social)](https://github.com/YOUR_USERNAME/PC-Optimizer-Batch-Script/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/Roo0722/PC-Optimizer-Batch-Script?style=social)](https://github.com/Roo0722/PC-Optimizer-Batch-Script/stargazers)
 
 ## 💡 Overview
 
@@ -70,3 +70,4 @@ The core of the script implements robust control flow using standard Windows Bat
 ## ⚖️ License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
